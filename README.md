@@ -30,14 +30,14 @@ The system is designed using the following components:
 
 ## Hardware Setup:
 
-Connect the NodeMCU-ESP8266 to the R307 fingerprint sensor and LCD display as per the circuit diagram.
-Ensure a stable WiFi connection for data transmission.
+1.Connect the NodeMCU-ESP8266 to the R307 fingerprint sensor and LCD display as per the circuit diagram.
+2.Ensure a stable WiFi connection for data transmission.
 
 ## Software Configuration:
 
-Install the required libraries in the Arduino IDE.
-Upload the code to the NodeMCU-ESP8266.
-Set up the Google Sheets API and update the code with your credentials.
+1.Install the required libraries in the Arduino IDE.
+2.Upload the code to the NodeMCU-ESP8266.
+3.Set up the Google Sheets API and update the code with your credentials.
 
 ## Run the System:
 
